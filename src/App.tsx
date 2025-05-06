@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import "./App.css";
 import axios from "axios";
-import * as Types from "./types/quote.types";
+import * as Types from "../types/quote.types";
 
 function App() {
   const [page, setPage] = useState(false);
