@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+body {
+  background-color: #353d43;
+  font-family: jetbrains-mono, monospace;
+  color: #eae4ca;
+}
+
+a:hover {
+  text-decoration: underline;
+}
