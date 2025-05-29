@@ -12,7 +12,7 @@ To avoid problems with local firefox home pages, go to `about:config` in firefox
 ### v1.0
 Added editing mode and removed the quotes section.
 
-<img align="left" src="https://github.com/user-attachments/assets/6223ab2c-9494-4125-94ad-fcbaa48d05a3" width="40%"/>
+<img align="left" src="https://github.com/user-attachments/assets/6223ab2c-9494-4125-94ad-fcbaa48d05a3" width="50%"/>
 
 <br/>
 
